@@ -10,5 +10,9 @@ public class App
     {
         //changed by Morne
         System.out.println("Hello World!");
+        
+        //Changed by Chad
+        System.out.println("Wayne's World!");
+
     }
 }
